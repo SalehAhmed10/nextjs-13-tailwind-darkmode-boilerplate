@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+
+// remove vscode folder
+/.vscode
+
+
 # testing
 /coverage
 

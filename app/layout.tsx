@@ -12,8 +12,8 @@ const inter = Inter({ subsets: ["latin"] });
 // import { switchThemeDuration } from "./constants";
 
 export const metadata: Metadata = {
-  title: "Saleh.dev",
-  description: "I am a front-end developer based in Karachi, Pakistan.",
+  title: "Next.js + TypeScript Starter",
+  description: "A starter template for Next.js and TypeScript",
 };
 
 export default function RootLayout({
